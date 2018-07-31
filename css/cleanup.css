@@ -8,19 +8,19 @@ body #wall #tag-2{
   display:none;
 }
 
-#wall #tag-3.slick{
+body #wall #tag-3.slick{
   display:none;
 }
 
-#wall #tag-4{
+body #wall #tag-4{
   display:none;
 }
 
-#wall .parent #tag-5.slick{
+body #wall .parent #tag-5.slick{
   display:none;
 }
 
-#wall div.parent div:last-child #tag-6{
+body #wall div.parent div:last-child #tag-6{
   display:none;
 }
 
