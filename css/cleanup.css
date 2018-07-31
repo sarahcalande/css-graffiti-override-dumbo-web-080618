@@ -4,11 +4,6 @@
   display: none;
 }
 
-#wall > div {
-  display: none;
-}
-
-
 
 #wall.parent {
   display: none;
