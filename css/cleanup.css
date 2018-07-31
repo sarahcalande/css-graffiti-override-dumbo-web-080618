@@ -4,10 +4,6 @@
   display: none;
 }
 
-div + div {
-  display: none;
-}
-
 
 .parent {
   display: none;
