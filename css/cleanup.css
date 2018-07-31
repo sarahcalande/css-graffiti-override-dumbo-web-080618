@@ -8,15 +8,6 @@
   display:none;
 }
 
-.parent {
-  display: none;
+div#wall #tag-3.slick{
+  display:none;
 }
-
-#wall.parent {
-  display: none;
-}
-
-#tag-7.slick {
-  display: none;
-}
-
